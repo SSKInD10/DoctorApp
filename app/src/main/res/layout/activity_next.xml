@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NextActivity">
+
+    <ImageButton
+        android:id="@+id/icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="100dp"
+        android:background="@mipmap/ic_launcher_round"
+        android:layout_centerHorizontal="true"
+        />
+
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="15dp"
+        android:orientation="vertical">
+     <Button
+        android:id="@+id/add_new"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorButtonActive"
+        android:text="@string/add_new_str"
+         android:layout_margin="20dp"
+         android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/analytics_btn"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/analytic_btn"
+        android:layout_margin="20dp"
+        android:textStyle="bold"
+        android:background="@color/colorButtonActive"
+        android:textColor="@color/black"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

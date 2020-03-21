@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DoctorRX</string>
+    <string name="head">Patient Prescription Details</string>
+    <string name="input1">You will see input here</string>
+    <string name="pname">Patient Name:</string>
+    <string name="pnameh">Enter Patient Name</string>
+    <string name="age">Patient Age:</string>
+    <string name="ageh">Enter Patient Age</string>
+    <string name="gender">Gender:</string>
+    <string name="genderh">Enter Gender</string>
+    <string name="symptoms">Symptoms:</string>
+    <string name="symptomsh">Enter Symptoms</string>
+    <string name="diagnosis">Prelim Diagnosis:</string>
+    <string name="diagnosish">Enter Prelim Diagnosis</string>
+    <string name="diagnosis_curr">Current Diagnosis:</string>
+    <string name="medicine">Prescription:</string>
+    <string name="medicine1">Med name 1:</string>
+    <string name="medicine2">Med name 2:</string>
+    <string name="medicine3">Med name 3:</string>
+    <string name="advice">Advice:</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="drug1">Drug name1:</string>
+    <string name="drug2">Drug name2:</string>
+    <string name="drug3">Drug name3:</string>
+    <string name="dosage1">Dosage 1:</string>
+    <string name="dosage2">Dosage 2:</string>
+    <string name="dosage3">Dosage 3:</string>
+    <string name="duration1">Duration 1:</string>
+    <string name="duration2">Duration 2:</string>
+    <string name="duration3">Duration 3:</string>
+    <string name="add_new_str">Add record</string>
+    <string name="analytic_btn">Analytics Section</string>
+</resources>
